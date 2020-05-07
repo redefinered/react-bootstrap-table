@@ -1,4 +1,6 @@
-# react-bootstrap-table-next
+# react-bootstrap-table-next [`(forked forked react-bootstrap-table-next)`](https://github.com/react-bootstrap-table/react-bootstrap-table2)
+
+
 Next generation of [`react-bootstrap-table`](https://github.com/AllenFang/react-bootstrap-table)
 
 ## Usage
